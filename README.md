@@ -20,15 +20,10 @@ Watch a quick walkthrough of the interface, real-time telemetry dispatch, and da
 <!-- DEMO VIDEO START -->
 <!-- Replace the URL below with your video link (e.g. YouTube, Vimeo, Loom, or direct .mp4) -->
 <p align="center">
-  <a href="https://youtu.be/d9ze1f5VH5Q">
-    <img src="/public/Thumbnail_mercia.jpeg" alt="RushMail Demo Video" width="85%" style="border-radius: 8px; border: 1px solid #27272a;" />
+        <a href="https://youtu.be/d9ze1f5VH5Q" target="_blank" rel="noopener noreferrer">
+                <img src="public/Thumbnail_mercia.jpeg" alt="Watch the RushMail demo on YouTube" width="85%" style="border-radius: 8px; border: 1px solid #27272a;" />
   </a>
 </p>
-
-```markdown
-<!-- Video Embed Example for GitHub -->
-<!-- [![Watch RushMail Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) -->
-```
 <!-- DEMO VIDEO END -->
 
 ---
