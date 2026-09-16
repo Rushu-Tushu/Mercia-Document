@@ -20,7 +20,7 @@ Watch a quick walkthrough of the interface, real-time telemetry dispatch, and da
 <!-- DEMO VIDEO START -->
 <!-- Replace the URL below with your video link (e.g. YouTube, Vimeo, Loom, or direct .mp4) -->
 <p align="center">
-  <a href="/public/Mercia-Launch.mp4">
+  <a href="https://youtu.be/d9ze1f5VH5Q">
     <img src="/public/Thumbnail_mercia.jpeg" alt="RushMail Demo Video" width="85%" style="border-radius: 8px; border: 1px solid #27272a;" />
   </a>
 </p>
